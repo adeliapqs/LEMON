@@ -2,7 +2,7 @@
 
 ## LEMON - EASY TRACKING YOUR MONEY
 
-LEMON adalah aplikasi opens source yang dikembangkan untuk mencatat problem keuangan, seperti keuangan masuk / debit dan keuangan keluar / credit. Beberapa fitur diantaranya:
+LEMON (Less Money) merupakan aplikasi akuntansi yang berguna bagi masyarakat dalam mengatur keuangan. Beberapa fitur diantaranya:
 
 - Daftar (Development)
 - Masuk / Login
@@ -15,8 +15,6 @@ LEMON adalah aplikasi opens source yang dikembangkan untuk mencatat problem keua
 
 LEMON juga akan dibuat versi native android, yang rencana akan di kembangkan dengan android studi / java.
 Untuk versi webnya menggunakan Framework Laravel
-
-**NOTE**: template admin menggunakan stisla, untuk lebih lengkapnya bisa kunjungi situs resminya di: https://getstisla.com/
 
 
 ## Cara Install
