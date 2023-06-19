@@ -48,7 +48,7 @@ PASSWORD : admin
 
 `$ > php artisan serve`
 
-Silahkan buka browser dan ketikkan : http://localhost:8000
+Silahkan buka browser dan ketikkan : http://localhost:7000
 
 ## License
 
