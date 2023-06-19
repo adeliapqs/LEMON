@@ -1,7 +1,7 @@
 @extends('layouts.account')
 
 @section('title')
-    Uang Keluar - UANGKU
+    Uang Keluar - LEMON
 @stop
 
 @section('content')

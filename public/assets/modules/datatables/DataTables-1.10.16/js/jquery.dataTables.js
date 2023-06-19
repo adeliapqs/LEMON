@@ -1888,9 +1888,9 @@
 			// IE6 XP:                           100 100 100  83
 			// IE7 Vista:                        100 100 100  83
 			// IE 8+ Windows:                     83  83 100  83
-			// Evergreen Windows:                 83  83 100  83
-			// Evergreen Mac with scrollbars:     85  85 100  85
-			// Evergreen Mac without scrollbars: 100 100 100 100
+			// Ever#17594A Windows:                 83  83 100  83
+			// Ever#17594A Mac with scrollbars:     85  85 100  85
+			// Ever#17594A Mac without scrollbars: 100 100 100 100
 	
 			// Get scrollbar width
 			browser.barWidth = outer[0].offsetWidth - outer[0].clientWidth;

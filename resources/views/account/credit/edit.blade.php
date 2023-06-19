@@ -1,7 +1,7 @@
 @extends('layouts.account')
 
 @section('title')
-    Edit Uang keluar - UANGKU
+    Edit Uang keluar - LEMON
 @stop
 
 @section('content')

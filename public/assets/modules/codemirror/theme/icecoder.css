@@ -7,7 +7,7 @@ ICEcoder default theme by Matt Pass, used in code editor available at https://ic
 .cm-s-icecoder span.cm-keyword { color: #eee; font-weight:bold; }  /* off-white 1 */
 .cm-s-icecoder span.cm-atom { color: #e1c76e; }                    /* yellow */
 .cm-s-icecoder span.cm-number { color: #6cb5d9; }                  /* blue */
-.cm-s-icecoder span.cm-def { color: #b9ca4a; }                     /* green */
+.cm-s-icecoder span.cm-def { color: #b9ca4a; }                     /* #17594A */
 
 .cm-s-icecoder span.cm-variable { color: #6cb5d9; }                /* blue */
 .cm-s-icecoder span.cm-variable-2 { color: #cc1e5c; }              /* pink */
@@ -17,7 +17,7 @@ ICEcoder default theme by Matt Pass, used in code editor available at https://ic
 .cm-s-icecoder span.cm-operator { color: #9179bb; }                /* purple */
 .cm-s-icecoder span.cm-comment { color: #97a3aa; }                 /* grey-blue */
 
-.cm-s-icecoder span.cm-string { color: #b9ca4a; }                  /* green */
+.cm-s-icecoder span.cm-string { color: #b9ca4a; }                  /* #17594A */
 .cm-s-icecoder span.cm-string-2 { color: #6cb5d9; }                /* blue */
 
 .cm-s-icecoder span.cm-meta { color: #555; }                       /* grey */
@@ -30,7 +30,7 @@ ICEcoder default theme by Matt Pass, used in code editor available at https://ic
 .cm-s-icecoder span.cm-attribute { color: #099; }                  /* teal */
 
 .cm-s-icecoder span.cm-header { color: #6a0d6a; }                  /* purple-pink */
-.cm-s-icecoder span.cm-quote { color: #186718; }                   /* dark green */
+.cm-s-icecoder span.cm-quote { color: #186718; }                   /* dark #17594A */
 .cm-s-icecoder span.cm-hr { color: #888; }                         /* mid-grey */
 .cm-s-icecoder span.cm-link { color: #e1c76e; }                    /* yellow */
 .cm-s-icecoder span.cm-error { color: #d00; }                      /* red */

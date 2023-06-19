@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-    <title>Daftar Akun &mdash; UANGKU</title>
+    <title>Daftar Akun &mdash; LEMON</title>
     <link rel="shortcut icon" href="{{ asset('assets/img/logo.png') }}">
     <!-- General CSS Files -->
     <link rel="stylesheet" href="{{ asset('assets/modules/bootstrap/css/bootstrap.min.css') }}">
@@ -17,14 +17,14 @@
     <link rel="stylesheet" href="{{ asset('assets/css/components.css') }}">
 </head>
 
-<body style="background: #f3f3f3">
+<body style="background: #EDD9A3">
 <div id="app">
     <section class="section">
         <div class="container mt-5">
             <div class="row">
                 <div class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-8 offset-lg-2 col-xl-8 offset-xl-2">
                     <div class="login-brand">
-                        <img src="{{ asset('assets/img/jewelry.svg') }}" alt="logo" width="100" class="shadow-light rounded-circle">
+                        <img src="https://static.vecteezy.com/system/resources/previews/014/526/871/original/lemon-cartoon-character-free-vector.jpg" alt="logo" width="100" class="shadow-light rounded-circle">
                     </div>
 
                     <div class="card card-primary">
@@ -44,7 +44,7 @@
                                         @enderror
                                     </div>
                                     <div class="form-group col-6">
-                                        <label for="last_name">Username</label>
+                                        <label for="last_name">Nama Pengguna</label>
                                         <input id="last_name" type="text" class="form-control" name="username" value="{{ old('username') }}">
                                         @error('username')
                                         <div class="invalid-feedback" style="display: block">
@@ -65,7 +65,7 @@
 
                                 <div class="row" style="margin-top: 30px">
                                     <div class="form-group col-6">
-                                        <label for="password" class="d-block">Password</label>
+                                        <label for="password" class="d-block">Kata Sandi</label>
                                         <input id="password" type="password" class="form-control pwstrength" data-indicator="pwindicator" name="password">
                                         <div id="pwindicator" class="pwindicator">
                                             <div class="bar"></div>
@@ -78,7 +78,7 @@
                                         @enderror
                                     </div>
                                     <div class="form-group col-6">
-                                        <label for="password2" class="d-block">Konfirmasi Password</label>
+                                        <label for="password2" class="d-block">Konfirmasi Kata Sandi</label>
                                         <input id="password2" type="password" class="form-control" name="password_confirmation">
                                     </div>
                                 </div>
@@ -104,7 +104,7 @@
                         </div>
                     </div>
                     <div class="simple-footer">
-                        © <strong>UANGKU</strong> 2019. Hak Cipta Dilindungi.
+                        © <strong>LEMON</strong> 2023. Hak Cipta Dilindungi.
                     </div>
                 </div>
             </div>

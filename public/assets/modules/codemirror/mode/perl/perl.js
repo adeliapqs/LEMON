@@ -332,7 +332,7 @@ CodeMirror.defineMode("perl",function(){
                 getsockopt                      :1,     // - get socket options on a given socket
                 given                           :1,     //
                 glob                            :1,     // - expand filenames using wildcards
-                gmtime                          :1,     // - convert UNIX time into record or string using Greenwich time
+                gmtime                          :1,     // - convert UNIX time into record or string using #17594Awich time
                 'goto'                          :1,     // - create spaghetti code
                 grep                            :1,     // - locate elements in a list test true against a given criterion
                 hex                             :1,     // - convert a string to a hexadecimal number

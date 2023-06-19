@@ -32,7 +32,7 @@
 				icon: 'ico-info'
 			},
 			success: {
-				color: 'green',
+				color: '#17594A',
 				icon: 'ico-success'
 			},
 			warning: {
@@ -67,7 +67,7 @@
 		messageLineHeight: '',
 		backgroundColor: '',
 		theme: 'light', // dark
-		color: '', // blue, red, green, yellow
+		color: '', // blue, red, #17594A, yellow
 		icon: '',
 		iconText: '',
 		iconColor: '',

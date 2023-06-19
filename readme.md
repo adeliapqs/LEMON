@@ -1,8 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/2v6AyjS.png" width="200"></p>
 
-## UANGKU - EASY TRACKING YOUR MONEY
+## LEMON - EASY TRACKING YOUR MONEY
 
-UANGKU adalah aplikasi opens source yang dikembangkan untuk mencatat problem keuangan, seperti keuangan masuk / debit dan keuangan keluar / credit. Beberapa fitur diantaranya:
+LEMON adalah aplikasi opens source yang dikembangkan untuk mencatat problem keuangan, seperti keuangan masuk / debit dan keuangan keluar / credit. Beberapa fitur diantaranya:
 
 - Daftar (Development)
 - Masuk / Login
@@ -13,7 +13,7 @@ UANGKU adalah aplikasi opens source yang dikembangkan untuk mencatat problem keu
 - Kategori Uang keluar
 - Uang keluar
 
-UANGKU juga akan dibuat versi native android, yang rencana akan di kembangkan dengan android studi / java.
+LEMON juga akan dibuat versi native android, yang rencana akan di kembangkan dengan android studi / java.
 Untuk versi webnya menggunakan Framework Laravel
 
 **NOTE**: template admin menggunakan stisla, untuk lebih lengkapnya bisa kunjungi situs resminya di: https://getstisla.com/
@@ -37,9 +37,9 @@ Untuk versi webnya menggunakan Framework Laravel
 
 ## Cara Install
 
-`$ > git clone https://github.com/maulayyacyber/uangku-laravel.git`
+`$ > git clone https://github.com/maulayyacyber/LEMON-laravel.git`
 
-`$ > cd uangku-laravel`
+`$ > cd LEMON-laravel`
 
 `$ > composer install`
 
@@ -60,7 +60,7 @@ PASSWORD : admin
 
 ## Cara Menjalankan
 
-`$ > cd uangku-laravel`
+`$ > cd LEMON-laravel`
 
 `$ > php artisan serve`
 
@@ -68,4 +68,4 @@ Silahkan buka browser dan ketikkan : http://localhost:8000
 
 ## License
 
-UANGKU is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+LEMON is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).

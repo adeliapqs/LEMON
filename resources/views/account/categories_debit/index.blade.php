@@ -1,7 +1,7 @@
 @extends('layouts.account')
 
 @section('title')
-    Kategori Uang Masuk - UANGKU
+    Kategori Uang Masuk - LEMON
 @stop
 
 @section('content')

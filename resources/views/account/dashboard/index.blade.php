@@ -1,7 +1,7 @@
 @extends('layouts.account')
 
 @section('title')
-    Dashboard - UANGKU
+    Beranda - LEMON
 @stop
 
 @section('content')
