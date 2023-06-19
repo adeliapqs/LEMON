@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/2v6AyjS.png" width="200"></p>
+<p align="center"><img src="https://static.vecteezy.com/system/resources/previews/014/526/871/original/lemon-cartoon-character-free-vector.jpg" width="200"></p>
 
 ## LEMON - EASY TRACKING YOUR MONEY
 
